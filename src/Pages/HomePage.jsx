@@ -73,6 +73,7 @@ const HomePage = () => {
           Explore Courses
         </Link>{" "}
       </div>
+      
     </div>
   );
 };

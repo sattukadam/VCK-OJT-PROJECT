@@ -4,14 +4,14 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: #F4F7F6;
+  background-color:#64aed3;
   align-items: center;
   /* A very light grey background for the whole app */
 }
 
 /* Content Area for pages */
 .content {
-  background-color: orange;
+  background-color: #64aed3;
   /* Match header background */
 
   flex-grow: 1;
