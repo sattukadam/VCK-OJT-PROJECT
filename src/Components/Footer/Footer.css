@@ -7,5 +7,5 @@
   font-size: 0.9em;
   box-shadow: 0 -2px 8px rgba(0,0,0,0.1); /* Shadow at the top */
   flex-shrink: 0; /* Prevents it from shrinking */
-  margin-top: auto; /* Pushes the footer to the bottom if content is short */
+  margin-top: 50px; /* Pushes the footer to the bottom if content is short */
 }
